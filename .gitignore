@@ -3,3 +3,6 @@
 ################################################################################
 
 /TimeElapse/obj
+/TimeElapse
+/.vs/TimeElapse/v15/Server/sqlite3
+/.vs/TimeElapse/v15/.suo
