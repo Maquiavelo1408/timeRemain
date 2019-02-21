@@ -3,6 +3,7 @@
 ################################################################################
 
 /TimeElapse/obj
-/TimeElapse
 /.vs/TimeElapse/v15/Server/sqlite3
 /.vs/TimeElapse/v15/.suo
+/TimeElapse/bin/Debug/netcoreapp2.2
+/.vs
